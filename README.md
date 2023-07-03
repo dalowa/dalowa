@@ -5,7 +5,17 @@ I am a bilingual web developer, I love all the possibilities that software devel
 
 ## Tech Skills
 
+```javascript
+import foobar
 
+# returns 'words'
+foobar.pluralize('word')
+
+# returns 'geese'
+foobar.pluralize('goose')
+
+# returns 'phenomenon'
+foobar.singularize('phenomena')
 
 - 🔭 I’m currently working on personal projects
 - 🌱 I’m currently improving my Front End Web Development skils
