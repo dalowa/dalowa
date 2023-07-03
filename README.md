@@ -5,7 +5,7 @@ I am a bilingual web developer, I love all the possibilities that software devel
 
 ## Tech Skills
 
-![React](https://cdn.freebiesupply.com/logos/large/2x/react-logo-png-transparent.png){: width="30px" }
+
 
 - 🔭 I’m currently working on personal projects
 - 🌱 I’m currently improving my Front End Web Development skils
