@@ -13,7 +13,7 @@ const Developer = {
     age: 19,
     location: "Lima, Peru",
     Pronouns: "He/him",
-    techSkills: ["HTML5", "CSS3", "JavaScript", "Git", "React", "TypeScript", "NextJS", "TailwindCSS", Bootstrap],
+    techSkills: ["HTML5", "CSS3", "JavaScript", "Git", "React", "TypeScript", "NextJS", "TailwindCSS", "Bootstrap"],
     specialty: "Front End Web Development",
     hobbies: ["Walking", "Chess", "Reading"]
 }
