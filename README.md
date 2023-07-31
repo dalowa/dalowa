@@ -1,4 +1,4 @@
-# *I'm software Engineer Student*
+# *I'm Software Engineer student*
 
 I am a bilingual web developer, I love all the possibilities that software development offers. Currently, developing independent projects and looking for new challenges to expand my knowledge.
 
