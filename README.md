@@ -1,14 +1,6 @@
-<style>
-.green {
-    color: green;
-    font-weight:700;
-    font-size: 30px;
-}
-</style>
+# David Urbano
 
-<div class="green">
-    Markdown css styles
-</div>
+## Software Engineer Student
 <!--
 **dalowa/dalowa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
