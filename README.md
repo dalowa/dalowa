@@ -1,5 +1,13 @@
-<div style="background-color:blue;">
-  Hola
+<style>
+.green {
+    color: green;
+    font-weight:700;
+    font-size: 30px;
+}
+</style>
+
+<div class="green">
+    Markdown css styles
 </div>
 <!--
 **dalowa/dalowa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
