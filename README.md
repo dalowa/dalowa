@@ -31,7 +31,7 @@ Some of my highlighted repositories:
 ## Currently Working On
 
 - Building a **Recipe Catalog app** with extended nutritional data  
-- Polishing my knowledge in **Aalgorithms and Data Structures**  
+- Polishing my knowledge in **Algorithms and Data Structures**  
 - Exploring **accessibility (WCAG)** and performance optimizations in Next.js
 
 ---
