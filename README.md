@@ -21,7 +21,7 @@ Some of my highlighted repositories:
 | Project | Short description | Tech stack |
 |---|---|---|
 | **Photography Website** | Professional photography portfolio website with galleries and contact system | Next.js, TypeScript, TailwindCSS, Zustand, SmugMug API |
-| **Countries Explorer** | Technical test app to explore world countries with filters, pagination, and favorites | Next.js, TypeScript, Tailwind, Shadcn, REST Countries API |
+| **Countries Explorer** | App to explore world countries with filters, pagination, and favorites | Next.js, TypeScript, Tailwind, Shadcn, REST Countries API |
 | **Recipe Catalog App (Working on it)** | Recipe catalog with filters, favorites, and detailed views | Next.js + Spoonacular API |
 
 <!-- | **Another Project** | (Insert another key project here) | (Tech stack) |* -->
