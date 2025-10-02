@@ -22,7 +22,7 @@ Some of my highlighted repositories:
 |---|---|---|
 | **[Photography Website](https://github.com/dalowa/dalowa_john-mayta)** | Professional photography portfolio website with galleries and contact system | Next.js, TypeScript, TailwindCSS, Zustand, SmugMug API |
 | **[Countries Explorer](https://github.com/dalowa/insalud-tt)** | App to explore world countries with filters, pagination, and favorites | Next.js, TypeScript, Tailwind, Shadcn, REST Countries API |
-| **Recipe Catalog App (Working on it)** | Recipe catalog with filters, favorites, and detailed views | Next.js + Spoonacular API |
+| **Next for Food (Working on it)** | Recipe catalog with filters, favorites, and detailed views | Next.js + Spoonacular API |
 
 <!-- | **Another Project** | (Insert another key project here) | (Tech stack) |* -->
 
