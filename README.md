@@ -3,7 +3,7 @@
 **Software Engineering Student | Frontend Enthusiast | Lifelong Learner**
 ---
 
-## Tech Stack
+## My Tech Stack
 
 Technologies I enjoy working with:
 
