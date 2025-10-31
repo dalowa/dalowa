@@ -1,6 +1,6 @@
-# Hi, I'm [David Urbano](https://davidurbanodev.vercel.app/)
+# I'm [David Urbano](https://davidurbanodev.vercel.app/)
 
-**Software Engineering Student | Frontend Enthusiast | Lifelong Learner**
+**Software Engineering Student | Software Web Developer | Lifelong Learner**
 ---
 
 ## My Tech Stack
