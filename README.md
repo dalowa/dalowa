@@ -5,9 +5,10 @@
 
 ## My Tech Stack
 
-Technologies I enjoy working with:
+Technologies I like working with:
 
-- **Front-end:** React, Next.js, Tailwind CSS, HTML5, CSS3, JavaScript / TypeScript  
+- **Front-end:** React, Next.js, Tailwind CSS, HTML5, CSS3, JavaScript / TypeScript 
+- **Back-end:** C#, .NET, Node.js 
 - **Libraries & Tools:** Axios, GSAP, Zustand  
 - **Others:** Git, GitHub, REST APIs, Figma, responsive design, clean code practices  
 - **Currently learning:** Node.js, PostgreSQL, automated testing
