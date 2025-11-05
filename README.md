@@ -4,9 +4,6 @@
 ---
 
 ## My Tech Stack
-
-Technologies I like working with:
-
 - **Front-end:** React, Next.js, Tailwind CSS, HTML5, CSS3, JavaScript / TypeScript 
 - **Back-end:** C#, .NET, Node.js 
 - **Libraries & Tools:** Axios, GSAP, Zustand  
