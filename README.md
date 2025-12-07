@@ -5,10 +5,10 @@
 
 ## My Tech Stack
 - **Front-end:** React, Next.js, Tailwind CSS, HTML5, CSS3, JavaScript / TypeScript 
-- **Back-end:** C#, .NET, Node.js 
+- **Back-end:** Node.js, Nest.js, PostgreSQL. 
 - **Libraries & Tools:** Axios, GSAP, Zustand  
 - **Others:** Git, GitHub, REST APIs, Figma, responsive design, clean code practices  
-- **Currently learning:** Node.js, PostgreSQL, automated testing
+- **Currently learning:** automated testing.
 
 ---
 
