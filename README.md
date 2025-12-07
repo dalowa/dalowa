@@ -18,7 +18,7 @@ Some of my highlighted repositories:
 
 | Project | Short description | Tech stack |
 |---|---|---|
-| **[Photography Website](https://github.com/dalowa/dalowa_john-mayta)** | A modern, responsive photography portfolio website built for professional wedding and portrait photographer. The application showcases high-quality image galleries with seamless navigation and integrates with SmugMug API for dynamic content management and contact system. | Next.js 14, TypeScript, Tailwind CSS, Zustand, SmugMug API, Zod, Vercel Analytics, OAuth Authentication |
+| **[Photographer Website](https://github.com/dalowa/dalowa_john-mayta)** | A modern, responsive photography portfolio website built for professional wedding and portrait photographer. The application showcases high-quality image galleries with seamless navigation and integrates with SmugMug API for dynamic content management and contact system. | Next.js 14, TypeScript, Tailwind CSS, Zustand, SmugMug API, Zod, Vercel Analytics, OAuth Authentication |
 | **[Countries Explorer](https://github.com/dalowa/insalud-tt)** |  A modern, responsive web application for exploring world countries with advanced filtering system, real-time search, and favorites functionality with local persistence. | Next.js 15, React 19, TypeScript, TailwindCSS v4, Zustand, REST Countries API |
 | **Next for Food (Working on it)** | Recipe catalog with filters, favorites, and detailed views | Next.js + Spoonacular API |
 
